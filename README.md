@@ -38,4 +38,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=andyporras&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andyporras&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Andyporras&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
