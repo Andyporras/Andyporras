@@ -1,6 +1,13 @@
 # 💫 About Me:
 📖 I am currently studying computer engineering.<br>🚀 I really enjoy the process of making tool and services that serve in real life only by doing code.<br>🪴 I keep learning every day .<br><br>Programming is really exciting! 🧑🏻‍💻
 
+## 🌍 Open Source Contributions  
+I am an active contributor to [OSMTracker](https://github.com/labexp/osmtracker-android), an open-source Android application for mapping and GPS tracking.  
+
+This experience allows me to:  
+- Solve real-world software issues.  
+- Work collaboratively on GitHub with an international team.  
+- Learn and apply advanced Android development techniques.  
 ## Contact:
  [![Correo electrónico](https://img.shields.io/badge/Correo%20electr%C3%B3nico-%230078D4.svg?logo=Gmail&logoColor=white)](andyporras6@gmail.com)
  [![Correo electrónico](https://img.shields.io/badge/Correo%20electr%C3%B3nico-%230078D4.svg?logo=Gmail&logoColor=white)](andyporras@estudiantec.cr)
